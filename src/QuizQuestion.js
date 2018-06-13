@@ -14,7 +14,9 @@ class QuizQuestion extends Component {
       this.props.showNextQuestionHandler();
     }
   }
-
+  handleResetClick(){
+    
+  }
   render() {
     return (
       <main>
